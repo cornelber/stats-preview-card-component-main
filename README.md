@@ -3,9 +3,9 @@
 ### Check on Website
 <p> 
   →
-  <a href="https://bc-payna-clone.netlify.app/"> Stats Card Component
+  <a href="https://practical-swanson-73f9c6.netlify.app/"> Stats Card Component
   <br />
   <br />
-  <img src="https://practical-swanson-73f9c6.netlify.app/" alt"Stats Card Component"/>
+  <img src="https://github.com/cornelber/stats-preview-card-component-main/blob/master/design/desktop-preview.jpg" alt"Stats Card Component"/>
   </a>
 </p>
